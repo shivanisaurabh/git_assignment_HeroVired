@@ -40,15 +40,12 @@ The square root of 25 = 5.0
 
 Example (intended) output for `GeometryCalculator.py`:
 
+
+
 ```
 The area of the circle with radius 5 = 78.53981633974483
-# The rectangle example is currently commented out in the script.
+The area of the rectangle with length 10 and width 6 = 60
 ```
-
-## Notes and known issues
-
-- The code files include TODOs and a few incomplete or mis-indented functions. If a script raises an error when you run it, check for TODO comments inside the file and correct the function definitions (for example, ensure methods belong to a class when intended and import required modules such as `math`).
-- This repository is used for instructional purposes; feel free to refactor the scripts into well-structured modules or add unit tests.
 
 ## Contributing
 
@@ -123,4 +120,5 @@ The area of the circle with radius 5 = 78.53981633974483
 Replace `feature/circle-area` with the branch you're working on.
 
 # git_assignment_HeroVired
+
 Practice Assignment : Git &amp;amp; Github
